@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bandera-argentinaH {
+    margin: 10px;
+    padding: 0;
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.celeste1 {
+    width: auto;
+    height: 66px;
+    background-color: aqua;
+}
+
+.blanco {
+    width: auto;
+    height: 66px;
+    background-color: antiquewhite;
+}
+
+.celeste2 {
+    width: auto;
+    height: 66px;
+    background-color: aqua;
+}
+
+.bandera-colombiaH {
+    margin: 10px;
+    padding: 0;
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.amarillo {
+    width: auto;
+    height: 66px;
+    background-color: yellow
+}
+
+.azul {
+    width: auto;
+    height: 66px;
+    background-color: blue
+}
+
+.rojo {
+    width: auto;
+    height: 66px;
+    background-color: red
+    
+}
+
+.bandera-mexicoV {
+    margin: 10px;
+    padding: 0;
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;   
+}
+
+.verdeV {
+    margin-right: 200px;
+    width: 100px;
+    height: 200px;
+    background-color: green;
+}
+
+.blancoV {
+    margin-left: 100px;
+    margin-top: -200px;
+    width: 100px;
+    height: 200px;
+    background-color: wheat
+    
+}
+
+.rojoV {
+    margin-left: 200px; /*mover el elemento al medio*/
+    margin-top: -200px; /*subo la caja para arriba */
+    width: 100px;
+    height: 200px;
+    background-color:red
+}

@@ -1,0 +1,34 @@
+*{
+    margin: auto;
+    padding: auto;
+    font-family: "Roboto" , sans-serif;
+}
+
+.Titulo1{
+    font-size: 30px;
+}
+
+.Titulo2{
+    font-size: 24px;
+}
+
+p{
+    font-size: small;
+    color: gray;
+}
+
+.P{
+    background-color: blue;
+}
+
+.HA{
+    background-color:orange;
+}
+
+.HE{
+    background-color: greenyellow;
+}
+
+.C{
+    background-color: red;
+}

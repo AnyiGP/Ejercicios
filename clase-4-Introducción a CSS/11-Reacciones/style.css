@@ -1,0 +1,28 @@
+*{
+    margin: auto;
+    padding: auto;
+    font-family: "Montserrat" , sans-serif;
+}
+
+h2{
+    font-size: 24px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(63, 62, 62);
+}
+
+.Fecha{
+    font-size: x-small;
+    color: gainsboro;
+}
+
+/*Separar los span con espacios y ponerle un color de fondo gris claro.*/
+span{
+    margin: 15px;
+    background-color: gainsboro;
+}
+
+
+

@@ -1,0 +1,59 @@
+*{
+    margin: auto;
+}
+
+body{
+    margin: 50px;
+    background-color: gray;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.T0 , .T50 {
+    /*negrita*/
+    
+}
+
+.T0{
+    background-color: rgb(0, 0, 53);
+}
+
+.T5{
+    background-color: rgb(4, 4, 209);
+}
+
+.T10{
+    background-color: rgb(42, 159, 255);
+}
+
+.T15{
+    background-color: rgb(0, 255, 234);
+}
+
+.T20{
+    background-color: whitesmoke;
+}
+
+.T25{
+    background-color: rgb(255, 245, 153);
+}
+
+.T30{
+    background-color: rgb(255, 230, 0);
+}
+
+.T35{
+    background-color:  rgb(255, 168, 53);
+}
+
+.T40{
+    background-color: rgb(250, 132, 77);
+}
+
+.T45{
+    background-color: rgb(255, 94, 0);
+}
+
+.T50{
+    background-color: red;
+}

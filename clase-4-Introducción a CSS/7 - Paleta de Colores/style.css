@@ -1,0 +1,90 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+h1{
+    font-family: "Montserrat" , sans-serif;
+}
+
+div{
+    font-family: "Montserrat" , sans-serif;
+    font-size: 15px;
+}
+
+h2{
+    font-size: 20px;
+    font-size: x-large;
+}
+
+li{
+    font-size: 15px;
+}
+
+.G1{
+    background-color: #C6C6C5;
+}
+
+.G2{
+    background-color: #878786;
+}
+
+.G3{
+    background-color: #575756;
+}
+
+.G4{
+    background-color: #3C3C3B;
+}
+
+.P1{
+    background-color: rgb(29, 112, 183);
+}
+
+.P2{
+    background-color: rgb(54, 169, 224);
+}
+
+.P3{
+    background-color: rgb(0, 160, 154);
+}
+
+.P4{
+    background-color: rgb(46, 172, 102);
+}
+
+.P5{
+    background-color: rgb(58, 169, 53);
+}
+
+.P6{
+    background-color: rgb(252, 534, 15);
+}
+
+.A1{
+    background-color: hsl(239, 49.7, 34.3);
+}
+
+.A2{
+    background-color: hsl(282, 57.6, 32.4);
+}
+
+.A3{
+    background-color: hsl(310, 69.3, 34.5);
+}
+
+.A4{
+    background-color: hsl(3, 79, 53.3);
+}
+
+.A5{
+    background-color: hsl(38, 94.3, 58.8);
+}
+
+.A6{
+    background-color: hsl(178, 100, 31.4);
+    background-color: #878786;
+}
+
+
+

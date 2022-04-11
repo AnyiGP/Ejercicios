@@ -1,0 +1,46 @@
+*{
+    margin: 10px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.melon{
+    background-color: rgb(56, 245, 31);
+    margin: 10px 5px 5px 5px;
+}
+
+.sandia{
+    background-color: rgba(255, 93, 93, 0.582);
+}
+
+.limon{
+    background-color: yellow;
+}
+
+.frutilla{
+    background-color: red;
+}
+
+.manzana{
+    background-color: yellowgreen;
+}
+
+.pera{
+    background-color: rgb(255, 243, 73);
+}
+
+.mandarina{
+    background-color: rgb(255, 174, 0);
+}
+
+.uvas{
+    background-color: blueviolet;
+}
+
+.anana{
+    background-color: rgba(231, 252, 47, 0.925);
+}
+
+.banana{
+    background-color: yellow;
+}

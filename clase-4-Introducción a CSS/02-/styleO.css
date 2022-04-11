@@ -1,0 +1,30 @@
+*{
+ margin: 10px;
+ padding: 20px;   
+ background-color: #212121;
+}
+
+/* @font-face {
+    font-family: Montserrat-Regular;
+    src: url(Montserrat-Regular.otf);
+    font-family: Montserrat-ExtraLight;
+    src: url(Montserrat-ExtraLight.otf);
+}
+
+h1{
+    font-size: 120px;
+    font-family: Montserrat-ExtraLight;
+} */
+
+h1{
+    font-family: "Montserrat" , sans-serif; /*llamo a la familia de l fuente vinculandola con link en el html*/
+    font-size: 120px; /* tamano*/
+    font-weight: 900; /*grosor*/
+}
+
+p{
+    font-size: 48px;
+    font-family: "Montserrat" , sans-serif;
+    font-weight: 700;
+}
+

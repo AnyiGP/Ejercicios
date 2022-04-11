@@ -1,0 +1,31 @@
+*{
+    margin: 10px;
+}
+
+span
+{
+    background-color: aqua;
+    margin: 10px;
+    padding: 35px;
+}
+
+/* .A1{
+    font-size: 200px;
+} */
+
+#A3{
+    font-size: 30px;
+}
+
+#A4{
+    font-size: 240px;
+}
+
+#A5{
+    font-size: 60px;
+}
+
+#A6{
+    font-size: 120px;
+}
+

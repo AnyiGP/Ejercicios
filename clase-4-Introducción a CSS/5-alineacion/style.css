@@ -1,0 +1,19 @@
+*{
+  margin: 10px;
+  padding: 10px;
+}
+
+/* las siguientes palabras, cada una en un párrafo p aparte. Alinear cada párrafo según lo que diga la palabra. Usar 3 clases, una para cada alineación*/
+
+.Flex-container-I{
+    text-align: left;
+}
+
+.Flex-container-C{
+    text-align: center;
+}
+
+.Flex-container-D{
+    text-align: right;
+}
+

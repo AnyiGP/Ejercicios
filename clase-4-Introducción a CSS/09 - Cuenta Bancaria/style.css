@@ -1,0 +1,28 @@
+*{
+    margin: auto;
+    padding: auto;
+    font-family: "Montserrat" , sans-serif;
+}
+
+h1{
+    font-size: xx-large;
+    font-style: inherit;
+}
+
+h3{
+    font-size: large;
+}
+
+
+.Fecha{
+    font-size: xx-small;
+    color: gray;
+}
+
+.I{
+    color: green;
+}
+
+.S{
+    color: red;
+}

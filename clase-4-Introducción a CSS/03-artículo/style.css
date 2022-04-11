@@ -1,0 +1,20 @@
+*{
+    margin: 10px;
+    background-color: #212121;
+   /* si pongo color me tapa el tercer parrafo que esta en <em> */
+}
+
+h1{
+    color: antiquewhite;
+    font-family: "roboto" , sans-serif; 
+    font-size: 56px;
+}
+
+div{
+    font-family: "Montserrat" , sans-serif;
+}
+
+
+p{
+    color: skyblue;
+}

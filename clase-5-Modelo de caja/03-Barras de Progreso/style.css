@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.B1,
+.B2,
+.B3,
+.B4,
+.B5 {
+  margin: 20px;
+  padding: 3px;
+  width: 500px;
+  height: 30px;
+  background-color: grey;
+  border-radius: 100px;
+}
+
+.b1,
+.b2,
+.b3,
+.b4,
+.b5 {
+  width: auto;
+  height: 30px;
+  background-color: greenyellow;
+  border-radius: 100px;
+}
+
+.b1 {
+    width: 10%;
+}
+
+.b2 {
+    width: 25%;
+}
+
+.b3 {
+    width: 50%;
+}
+
+.b4 {
+    width: 75%;
+}
+
+.b5 {
+    width: 90%;
+}

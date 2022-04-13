@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 0 auto;
+  background-color: blueviolet;
+  font-family: "Montserrat", sans-serif;
+}
+
+main {
+  width: 400px;
+  height: 540px;
+  margin-top: 50px;
+  margin-left: 450px;
+  padding: 30px;
+  background-color: rgb(191, 190, 190);
+}
+
+.img1 {
+  width: 360px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  margin-left: 20px;
+}
+
+section {
+  width: 360px;
+  height: 380px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: bisque;
+  margin-left: 20px;
+  margin-top: -5px;
+}
+
+.summary {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: grey;
+}
+
+h1 {
+  padding-bottom: 20px;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+}
+h2 {
+  width: 360px;
+  font-size: 14px;
+  font-weight: 300;
+  text-align: center;
+}
+
+p {
+  width: 300px;
+  font-size: 14px;
+  font-weight: 300;
+  text-align: center;
+  color: rgb(113, 115, 113);
+
+}
+
+.contenedor1 {
+  width: 320px;
+  height: 80px;
+  margin-left: 30px;
+}
+
+.icono {
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.change {
+  padding-left: 160px;
+  font-size: 12px;
+  width: 60px;
+  height: 10px;
+}
+
+.annual {
+  margin-top: -40px;
+  margin-bottom: 40px;
+}
+
+.pay {
+  width: 300px;
+  height: 40px;
+  background-color: violet;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  margin-left: 30px;
+}
+
+h3 {
+  font-size: 14px;
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 10px;
+}
+
+.cancel {
+  width: 360px;
+  height: 40px;
+  color: gray;
+}

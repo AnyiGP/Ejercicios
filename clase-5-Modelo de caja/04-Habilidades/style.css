@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+
+body {
+    background-color: rgb(47, 214, 226);
+    font-family: "Montserrat" , sans-serif;
+    
+}
+
+main {
+    margin: auto;
+    background-color: whitesmoke;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.encabezado {
+    width: 200px;
+    height: 20px;
+    font-weight: 500;
+}
+
+nav {
+    font-size: x-small;
+    font-weight: 500;
+    width: 60px;
+    height: 15px;
+    border: 1px solid rgb(225, 225, 225);
+    margin-left: 200px;
+    margin-top: -18px;
+    text-align: center;
+    color: black;
+    border-radius: 4px;
+}
+
+.A1 , 
+.A2 ,
+.A3 {
+    width: 240px;
+    height: 50px;
+    margin-top: 15px;
+    border: 1px solid rgb(225, 225, 225);
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+
+h1 {
+    font-size: 10px;
+    margin-left: 20px;
+    
+}
+
+h2 {
+    font-size: 8px;
+    font-weight: 400;
+    margin-left: 20px;
+}
+
+.B1 {
+    background: linear-gradient( 60deg, blue, cyan);
+    width: 5px;
+    height: 70px;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    margin-left: -10px; /*está bien usar negativos para acomodar las cosas??*/
+    margin-top: -33px;
+}
+
+.B2 {
+    background: linear-gradient( 60deg, rgb(59, 207, 116), cyan);
+    width: 5px;
+    height: 70px;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    margin-left: -10px; /*está bien usar negativos para acomodar las cosas??*/
+    margin-top: -10px
+}
+
+.C2 {
+    margin-top: -45px;
+}
+
+.B3 {
+    background: linear-gradient( 60deg, rgb(201, 42, 233) , cyan);
+    width: 5px;
+    height: 70px;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    margin-top: -70px;
+}
+
+.h1 {
+    margin-top: 18px;
+} /*h2 hizo lo que le dije que hiciera h1, siguio a su mama*/
+
+
